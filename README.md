@@ -1,5 +1,9 @@
 # ADV360-PRO-ZMK
 
+## Editing the layout
+
+To easily edit the layout use https://nickcoutsos.github.io/keymap-editor/.
+
 ## To build Firmware in GitHub Actions
 
 ### Setup
